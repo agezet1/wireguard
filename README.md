@@ -2,7 +2,7 @@
 
 ### Wireguard Server
 ```
-wget https://raw.githubusercontent.com/agezet1/wireguard/master/wireguard-client.sh
+wget https://raw.githubusercontent.com/agezet1/wireguard/master/wireguard-server.sh
 bash wireguard-server.sh
 ```
 ### Wireguard Client
